@@ -1,0 +1,3 @@
+[submodule "server/models/phogpt-4b"]
+	path = server/models/phogpt-4b
+	url = https://huggingface.co/vinai/PhoGPT-4B
